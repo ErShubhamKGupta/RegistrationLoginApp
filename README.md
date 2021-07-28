@@ -12,4 +12,4 @@
 <ol><li>Implement the FormsAuthentication</li><li>Implement the RemoteValidation</li><li>Authorization Filters</li><li>Do not accept duplication record</li><li>Register a new user</li><li>Login functionality</li></ol>
 <!-- /wp:list -->
 
-You can see the blog here --> https://factstea.com/registration-and-login-in-asp-net-mvc-using-entity-framework-6-0
+You can see the blog here --> http://factstea.com/registration-and-login-in-aspnet-mvc-using-entity-framework-6-0/
